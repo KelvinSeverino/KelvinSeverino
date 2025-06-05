@@ -58,24 +58,19 @@ My goal is to write **clean, well-structured and code**, ensuring that every sol
 ### 🔹 DevOps & Tools  
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img alt="Docker" height="30" src="https://skillicons.dev/icons?i=docker"/>
-  <img alt="WSL2" height="30" src="https://skillicons.dev/icons?i=wsl"/>
   <img alt="Postman" height="30" src="https://skillicons.dev/icons?i=postman"/>
-  <img alt="Composer" height="30" src="https://skillicons.dev/icons?i=composer"/>
   <img alt="npm" height="30" src="https://skillicons.dev/icons?i=npm"/>
 </div>  
 
 ### 🔹 Databases & Architecture  
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img alt="MySQL" height="30" src="https://skillicons.dev/icons?i=mysql"/>
-  <img alt="MariaDB" height="30" src="https://skillicons.dev/icons?i=mariadb"/>
   <img alt="PostgreSQL" height="30" src="https://skillicons.dev/icons?i=postgres"/>
   <img alt="SQL Server" height="30" src="https://skillicons.dev/icons?i=mssql"/>
-  <img alt="Firebird" height="30" src="https://skillicons.dev/icons?i=firebird"/>
 </div>  
 
 ### 🔹 Web Servers & CI/CD  
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img alt="Apache" height="30" src="https://skillicons.dev/icons?i=apache"/>
   <img alt="Nginx" height="30" src="https://skillicons.dev/icons?i=nginx"/>
   <img alt="Openshift" height="30" src="https://skillicons.dev/icons?i=openshift"/>
   <img alt="CI/CD" height="30" src="https://skillicons.dev/icons?i=githubactions"/>
