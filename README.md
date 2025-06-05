@@ -81,4 +81,4 @@ My goal is to write **clean, well-structured and code**, ensuring that every sol
 ## 🔗 Social & Contact  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvinseverino/)  
 
-📌 *Sempre aprendendo, construindo e compartilhando conhecimento!* 😃
+📌 *Always learning, building and sharing knowledge!* 😃
